@@ -1,8 +1,3 @@
-Creating a README file for your Solidity-based e-commerce smart contract is a great way to provide an overview of your project to other developers or users who may want to interact with your contract or contribute to your project. Below, I'll outline a suggested format and content for your README file.
-
----
-
-## README.md
 
 ### Project Title: Ecommerce Smart Contract
 
@@ -76,6 +71,4 @@ This contract is a basic example and does not implement advanced security measur
 
 This project is licensed under the MIT License.
 
----
 
-Make sure to replace sections like "Project Title", "Overview", and others with more specific information related to your project if needed. This README template gives a clear starting point for documenting your Solidity project for GitHub or any other version control platform.
